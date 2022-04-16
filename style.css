@@ -12,7 +12,7 @@ ul {
     margin: 0%;
     position: fixed;
     overflow: hidden;
-    background-image: url(/Assets/headerbg.png);
+    background-image: url(headerbg.png);
     top: 0;
     width: 100%;
     padding-bottom: 30px;
